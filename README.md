@@ -10,7 +10,7 @@ Welcome to my portfolio! Here you'll find projects that demonstrate my skills in
 
 ### 🤖 [NeuroOps AI – Intelligent AIOps Monitoring Platform](https://github.com/keerthaana22/NeuroOps-AI)
 
-**Tools:** Python, FastAPI, SQLite, Scikit-learn, HTML, CSS, Bootstrap, Psutil
+**Tools:** Python, FastAPI, SQLite, Scikit-learn, HTML, CSS
 
 **Highlights:**
 
@@ -20,7 +20,6 @@ Welcome to my portfolio! Here you'll find projects that demonstrate my skills in
 * Added predictive analytics using Machine Learning to forecast CPU usage trends
 * Designed intelligent alert management with severity classification
 * Implemented secure user authentication, registration, and session management
-* Generated AI-based recommendations for proactive issue resolution
 
 ---
 
@@ -58,8 +57,6 @@ Welcome to my portfolio! Here you'll find projects that demonstrate my skills in
 
 * Python
 * SQL
-* Java
-* JavaScript
 
 ### Data Analytics
 
@@ -86,7 +83,6 @@ Welcome to my portfolio! Here you'll find projects that demonstrate my skills in
 
 * HTML
 * CSS
-* Bootstrap
 * FastAPI
 
 ### Databases
